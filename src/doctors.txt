@@ -1,0 +1,4 @@
+1 | John Doe | Cardiology | 1000.0
+2 | Jane Does | Cardiology | 1000.0
+3 | vlad | dsa | 2000000.0
+4 | stefan | msss | 40000.0
